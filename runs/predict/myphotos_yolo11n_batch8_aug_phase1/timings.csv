@@ -1,0 +1,50 @@
+image_path,preprocess_ms,inference_ms,postprocess_ms,total_ms,detections,classes
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_100.JPEG,2.521099988371134,27.0306000020355,82.02860003802925,111.58030002843589,4,Tomato leaf yellow virus|Tomato leaf yellow virus|Tomato leaf yellow virus|Tomato leaf yellow virus
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_104.JPEG,1.9441000185906887,10.666699963621795,0.6656999466940761,13.27649992890656,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_109.JPEG,2.3314999416470528,10.403399937786162,5.164600093849003,17.899499973282218,6,Tomato leaf|Apple leaf|Tomato leaf|Apple leaf|Apple leaf|Tomato leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_120.JPEG,2.019300009123981,10.984999942593277,0.7715999381616712,13.775899889878929,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_128.JPEG,2.0048998994752765,10.2999999653548,2.798900008201599,15.103799873031676,1,Tomato mold leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_13.JPEG,2.1827000891789794,10.927299968898296,2.866599941626191,15.976599999703467,1,Tomato mold leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_132.JPEG,2.0818000193685293,10.180599987506866,0.7337999995797873,12.996200006455183,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_139.JPEG,2.096800017170608,10.464400053024292,0.6819999543949962,13.243200024589896,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_142.JPEG,2.137299976311624,10.259200003929436,1.3098999625071883,13.706399942748249,1,grape leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_143.JPEG,2.072199946269393,11.039200006052852,0.8600000292062759,13.97139998152852,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_144.JPEG,2.12009996175766,10.23179991170764,0.7827000226825476,13.134599896147847,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_146.JPEG,2.387099899351597,11.160699999891222,0.8029999444261193,14.350799843668938,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_151.JPEG,2.004800015129149,10.151700000278652,4.115300020202994,16.271800035610795,2,Squash Powdery mildew leaf|Squash Powdery mildew leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_153.JPEG,2.1057999692857265,10.643400019034743,3.7463000044226646,16.495499992743134,3,Tomato leaf late blight|Tomato leaf late blight|Tomato leaf late blight
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_17.JPEG,2.0432999590411782,10.411800001747906,0.9334000060334802,13.388499966822565,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_174.JPEG,2.164500067010522,10.477400035597384,0.8974000811576843,13.53930018376559,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_177.JPEG,2.065700013190508,10.218500043265522,0.7486999966204166,13.032900053076446,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_185.JPEG,2.3105000145733356,10.674300021491945,13.773399987258017,26.758200023323298,14,Soyabean leaf|Soyabean leaf|Bell_pepper leaf|Soyabean leaf|Soyabean leaf|Soyabean leaf|Soyabean leaf|Soyabean leaf|Bell_pepper leaf|Bell_pepper leaf|Soyabean leaf|Bell_pepper leaf|Soyabean leaf|Soyabean leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_196.JPEG,3.2809999538585544,10.335400002077222,1.326699974015355,14.943099929951131,1,Cherry leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_204.JPEG,2.2071999264881015,10.407900088466704,2.1669999696314335,14.782099984586239,1,Cherry leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_213.JPEG,1.9190999446436763,10.116499965079129,2.7469999622553587,14.782599871978164,2,Bell_pepper leaf|Cherry leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_214.JPEG,2.254200051538646,10.12980006635189,1.1021000100299716,13.486100127920508,1,Tomato leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_215.JPEG,2.0213000243529677,10.400200029835105,0.6909000221639872,13.11240007635206,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_216.JPEG,1.9841999746859074,10.750000015832484,0.6943000480532646,13.428500038571656,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_217.JPEG,1.9496000604704022,10.099199949763715,2.617000020109117,14.665800030343235,1,Tomato leaf late blight
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_218.JPEG,2.179900067858398,10.430300026200712,7.403200026601553,20.013400120660663,7,Tomato leaf yellow virus|Tomato leaf yellow virus|Tomato leaf yellow virus|Tomato leaf yellow virus|Tomato leaf yellow virus|Tomato leaf yellow virus|Tomato mold leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_219.JPEG,2.2380000445991755,11.209500022232533,8.48219997715205,21.929700043983757,8,Tomato leaf|Tomato leaf|Tomato leaf|Tomato leaf|Tomato leaf|Tomato leaf|Tomato leaf|Tomato leaf yellow virus
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_22.JPEG,2.5778000708669424,33.508499967865646,5.970299942418933,42.05659998115152,4,Tomato leaf late blight|Tomato leaf late blight|Tomato leaf late blight|Tomato leaf late blight
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_220.JPEG,2.4648000253364444,12.801699922420084,0.7429999532178044,16.009499900974333,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_221.JPEG,2.5215999921783805,10.664199944585562,1.6737000551074743,14.859499991871417,1,Raspberry leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_222.JPEG,2.7706000255420804,10.745099978521466,5.874500027857721,19.390200031921268,6,Tomato leaf yellow virus|Tomato leaf yellow virus|Tomato leaf yellow virus|Tomato leaf yellow virus|Tomato leaf yellow virus|Tomato leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_223.JPEG,2.672899980098009,10.456399992108345,2.3291000397875905,15.458400011993945,1,Tomato leaf late blight
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_224.JPEG,2.127799903973937,10.36539999768138,1.234399969689548,13.727599871344864,1,Tomato mold leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_225.JPEG,2.356800017878413,10.453399969264865,2.6547000743448734,15.464900061488152,1,Tomato leaf late blight
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_226.JPEG,2.1365999709814787,10.468399967066944,3.1263999408110976,15.73139987885952,2,Tomato leaf late blight|Tomato leaf late blight
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_227.JPEG,2.161600044928491,11.171999969519675,0.7525000255554914,14.086100040003657,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_228.JPEG,2.2396999411284924,11.442400049418211,0.5976000102236867,14.27970000077039,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_229.JPEG,2.0848000422120094,10.077600018121302,2.1513000829145312,14.313700143247843,1,Tomato mold leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_230.JPEG,2.5296000530943274,12.185700004920363,2.773200045339763,17.488500103354454,1,Tomato leaf late blight
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_231.JPEG,1.9823999609798193,10.406300076283514,2.329300041310489,14.718000078573823,1,Tomato leaf late blight
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_232.JPEG,1.9184999400749803,10.558299953117967,4.472000058740377,16.948799951933324,4,Tomato leaf late blight|Tomato leaf late blight|Tomato leaf late blight|Tomato leaf late blight
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_233.JPEG,2.2876999573782086,11.623100028373301,1.3807999202981591,15.291599906049669,1,Tomato leaf yellow virus
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_234.JPEG,2.139899996109307,11.099600000306964,2.4118999717757106,15.651399968191981,2,Tomato leaf late blight|Tomato leaf late blight
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_235.png,1.677999971434474,29.12389999255538,0.5777000915259123,31.379600055515766,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_3.JPEG,2.3460000520572066,11.545200017280877,4.4728999491781,18.364100018516183,3,Tomato leaf yellow virus|Tomato leaf yellow virus|Tomato leaf late blight
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_43.JPEG,2.2009999956935644,10.361200082115829,0.8636000566184521,13.425800134427845,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_89.JPEG,2.3862000089138746,11.955299996770918,3.667699988000095,18.009199993684888,2,Bell_pepper leaf|Bell_pepper leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_90.JPEG,2.54100002348423,10.49730007071048,2.0389999262988567,15.077300020493567,1,Tomato leaf late blight
+__SUMMARY__,,11.909,,18.362,48,"FPS≈83.97, total_runtime_s=2.881"

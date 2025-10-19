@@ -1,0 +1,4 @@
+PlantDoc-4
+.venv
+yolo11n.pt
+runs/predict/test_yolo11n_batch8

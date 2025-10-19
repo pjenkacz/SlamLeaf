@@ -1,0 +1,26 @@
+# lagodniejsze wartosci LR oraz augmentacji przy finetuningu modelu
+lr0: 0.002
+lrf: 0.1
+momentum: 0.937
+weight_decay: 0.0005
+warmup_epochs: 1.0
+warmup_momentum: 0.8
+warmup_bias_lr: 0.05
+box: 7.5
+cls: 0.5
+dfl: 1.5
+# mniejsze augmetnacje niz w fazie 1
+hsv_h: 0.008
+hsv_s: 0.25
+hsv_v: 0.15
+fliplr: 0.30
+degrees: 1.0
+translate: 0.01
+scale: 0.02
+shear: 0.0
+# zaawansowane augmentacje OFF
+mosaic: 0.0
+mixup: 0.0
+copy_paste: 0.0
+seed: 0
+nbs: 32

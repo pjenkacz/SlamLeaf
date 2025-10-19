@@ -1,0 +1,50 @@
+image_path,preprocess_ms,inference_ms,postprocess_ms,total_ms,detections,classes
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_100.JPEG,2.4688999401405454,70.33979997504503,72.60419998783618,145.41289990302175,4,Tomato mold leaf|Tomato mold leaf|Tomato leaf|Tomato mold leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_104.JPEG,2.1394999930635095,59.35280001722276,2.6596999960020185,64.15200000628829,1,Tomato leaf bacterial spot
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_109.JPEG,1.9872999982908368,60.229700058698654,5.808800109662116,68.0258001666516,5,Tomato leaf|Tomato leaf|Tomato leaf|Tomato leaf|Tomato leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_120.JPEG,2.1312000462785363,58.70819999836385,2.0670000230893493,62.90640006773174,1,Tomato leaf bacterial spot
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_128.JPEG,1.9801000598818064,55.06060004699975,2.5449999375268817,59.58570004440844,2,Tomato Septoria leaf spot|Tomato leaf bacterial spot
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_13.JPEG,2.094399998895824,53.14820003695786,2.925800043158233,58.16840007901192,1,Tomato leaf bacterial spot
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_132.JPEG,1.9857999868690968,51.544299931265414,3.037300077266991,56.5673999954015,2,Tomato mold leaf|Tomato leaf bacterial spot
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_139.JPEG,1.9468000391498208,50.6780999712646,1.2996000004932284,53.92450001090765,1,Soyabean leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_142.JPEG,1.933799940161407,51.622799946926534,2.1668000845238566,55.7233999716118,1,Tomato leaf bacterial spot
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_143.JPEG,2.001899993047118,50.94460002146661,2.5347000919282436,55.481200106441975,1,Tomato leaf bacterial spot
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_144.JPEG,1.9625000422820449,50.76420004479587,2.7741999365389347,55.50090002361685,1,Tomato leaf bacterial spot
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_146.JPEG,2.0921999821439385,50.64599995967001,4.378800047561526,57.11699998937547,3,Tomato leaf|Tomato leaf|Tomato leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_151.JPEG,2.3595000384375453,50.60860002413392,0.8219999726861715,53.79010003525764,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_153.JPEG,2.2127999691292644,51.23530002310872,0.875400030054152,54.32350002229214,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_17.JPEG,2.004799898713827,51.0555999353528,2.6184000307694077,55.67879986483604,1,Tomato leaf bacterial spot
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_174.JPEG,1.9432000117376447,50.88880006223917,2.56640010047704,55.398400174453855,1,Tomato leaf bacterial spot
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_177.JPEG,2.089999965392053,50.95570010598749,2.652799943462014,55.69850001484156,1,Tomato leaf bacterial spot
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_185.JPEG,2.016299986280501,51.132700056768954,6.08640001155436,59.235400054603815,4,Bell_pepper leaf|Bell_pepper leaf|Bell_pepper leaf|Bell_pepper leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_196.JPEG,2.0735999569296837,51.19489994831383,3.0230000847950578,56.291499990038574,1,Blueberry leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_204.JPEG,2.1083999890834093,51.621099933981895,2.495800028555095,56.2252999516204,2,Soyabean leaf|Soyabean leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_213.JPEG,1.9817000720649958,51.107099978253245,3.644699929282069,56.73349997960031,3,Soyabean leaf|Tomato leaf|Bell_pepper leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_214.JPEG,1.9909999100491405,50.66750000696629,0.784600037150085,53.44309995416552,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_215.JPEG,2.0083000417798758,51.047799992375076,1.317800022661686,54.37390005681664,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_216.JPEG,2.5377999991178513,52.335600019432604,0.8859999943524599,55.759400012902915,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_217.JPEG,2.2435999708250165,51.824299967847764,2.6112000923603773,56.67910003103316,1,Tomato leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_218.JPEG,2.3394000018015504,53.733899956569076,3.5206000320613384,59.593899990431964,2,Tomato leaf|Tomato leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_219.JPEG,2.123399986885488,53.90840000472963,9.482899913564324,65.51469990517944,7,Tomato leaf|Tomato leaf|Tomato leaf|Tomato leaf|Tomato leaf|Tomato leaf|Tomato leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_22.JPEG,2.0263000624254346,54.2091999668628,1.642199931666255,57.87769996095449,2,Tomato mold leaf|Tomato leaf yellow virus
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_220.JPEG,2.279600012116134,52.356400061398745,0.7006999803707004,55.33670005388558,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_221.JPEG,1.983199967071414,51.24609998892993,2.481000032275915,55.71029998827726,1,Tomato leaf bacterial spot
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_222.JPEG,1.9251999910920858,51.45590007305145,5.882299970835447,59.263400034978986,5,Tomato leaf|Tomato leaf|Tomato leaf|Tomato leaf|Tomato leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_223.JPEG,2.7166000800207257,52.423100103624165,2.463200013153255,57.602900196798146,1,Raspberry leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_224.JPEG,2.6020000223070383,52.2550999885425,0.773400068283081,55.63050007913262,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_225.JPEG,2.2019000025466084,52.69109993241727,3.043100005015731,57.93609993997961,1,Tomato leaf bacterial spot
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_226.JPEG,1.9400999881327152,51.57919996418059,0.8227999787777662,54.34209993109107,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_227.JPEG,1.8971000099554658,52.471900009550154,1.1468000011518598,55.51580002065748,1,Squash Powdery mildew leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_228.JPEG,2.1782999392598867,52.19710001256317,0.6110999966040254,54.98649994842708,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_229.JPEG,2.1177000598981977,51.69939994812012,2.7417000383138657,56.55880004633218,1,Tomato leaf bacterial spot
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_230.JPEG,1.9555999897420406,52.17799998354167,3.36169998627156,57.49529995955527,2,Tomato mold leaf|Tomato leaf mosaic virus
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_231.JPEG,2.086700056679547,51.08390003442764,2.758899936452508,55.9295000275597,2,Tomato mold leaf|Tomato mold leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_232.JPEG,1.9747000187635422,51.41939991153777,2.4419999681413174,55.836099898442626,1,Tomato leaf mosaic virus
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_233.JPEG,2.0256999414414167,52.584199933335185,3.3691999269649386,57.97909980174154,3,Tomato mold leaf|Tomato mold leaf|Tomato leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_234.JPEG,2.311500022187829,51.0281000752002,7.653100066818297,60.992700164206326,5,Tomato leaf|Tomato leaf|Tomato leaf|Tomato leaf|Tomato leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_235.png,1.61060004029423,50.57019996456802,0.6246999837458134,52.80549998860806,0,
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_3.JPEG,2.000899985432625,52.464600070379674,2.88309995085001,57.34860000666231,2,Tomato leaf mosaic virus|Tomato leaf mosaic virus
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_43.JPEG,1.9588000141084194,50.73939997237176,4.017099970951676,56.71529995743185,3,Tomato leaf|Tomato leaf|Tomato leaf
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_89.JPEG,1.8674000166356564,51.650999928824604,2.917799982242286,56.436199927702546,1,Potato leaf late blight
+C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg\pomidor_90.JPEG,1.9755000248551369,51.39539996162057,2.4901999859139323,55.86109997238964,1,Tomato mold leaf
+__SUMMARY__,,52.626,,58.947,48,"FPS≈19.00, total_runtime_s=5.034"
