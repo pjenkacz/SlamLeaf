@@ -31,7 +31,6 @@ summary_df = (
       .reset_index(drop=True)
 )
 
-# 👉 (opcjonalnie) wykres
 ax = summary_df.plot(x="Model", y=["mAP50","mAP50-95","Precision","Recall"], kind="bar")
 plt.xticks(rotation=30, ha='right')
 plt.tight_layout()
