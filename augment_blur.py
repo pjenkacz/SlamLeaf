@@ -1,17 +1,16 @@
-# augment_blur_offline.py
+
 import os, shutil, random
 from pathlib import Path
 import cv2
 import albumentations as A
 
-# ŚCIEŻKI
-ROOT = Path(r"C:\Users\Majkel\Desktop\STUDIA\praca\PlantDoc\PlantDoc-4")     # folder z data.yaml
+
+ROOT = Path(r"C:\Users\Majkel\Desktop\STUDIA\praca\PlantDoc\PlantDoc-4")     
 SRC  = ROOT / "train" / "images"
 DST  = ROOT / "train" / "images_aug"
 LBL  = ROOT / "train" / "labels"
 DST.mkdir(parents=True, exist_ok=True)
 
-# FRACTION - procent augmentacji obrazów
 FRACTION = 0.4
 random.seed(0)
 
@@ -38,16 +37,13 @@ for img_path in chosen:
     if img is None:
         continue
     aug_img = aug(image=img)["image"]
-
-    # zapis z sufiksem _aug w images_aug/
     out_name = img_path.stem + "_aug" + img_path.suffix
     out_path = DST / out_name
     cv2.imwrite(str(out_path), aug_img)
 
-    # skopiowanie etykiet z dopiskiem _aug
     lbl_src = LBL / (img_path.stem + ".txt")
     if lbl_src.exists():
         lbl_dst = LBL / (Path(out_name).stem + ".txt")
         shutil.copy(lbl_src, lbl_dst)
 
-print("Gotowe. Nowe obrazy w:", DST)
+print("Nowe obrazy w:", DST)
