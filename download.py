@@ -8,11 +8,11 @@ if not API_KEY:
 
 WORKSPACE = "joseph-nelson"
 PROJECT   = "plantdoc"
-VERSION   = 4          # v4 z Universe; zostaw lub zmień na swoją wersję
+VERSION   = 4          
 FORMAT    = "yolov11"
 
 rf = Roboflow(api_key=API_KEY)
 project = rf.workspace(WORKSPACE).project(PROJECT)
 dataset = project.version(VERSION).download(FORMAT, location="C:/pd")
 
-print("Pobrano do:", dataset.location)  # np. ./PlantDoc-4
+print("Pobrano do:", dataset.location)  
