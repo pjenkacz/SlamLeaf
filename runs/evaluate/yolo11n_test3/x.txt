@@ -1,0 +1,5 @@
+results_dict: {'metrics/precision(B)': 0.6030408666957975, 
+'metrics/recall(B)': 0.6422278868872928, 
+'metrics/mAP50(B)': 0.6516076590729868, 
+'metrics/mAP50-95(B)': 0.49065868762832104, 
+'fitness': 0.49065868762832104}
