@@ -22,7 +22,7 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 IMGSZ  = 640
 CONF   = 0.4
-MAX_IMG = 30     # ile obrazów, None - wszystkie
+MAX_IMG = None     # ile obrazów, None - wszystkie
 DEVICE = 0 if torch.cuda.is_available() else "cpu"
 
 def ensure_same_height(imgs, target_h=None):
