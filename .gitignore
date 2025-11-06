@@ -1,4 +1,30 @@
-PlantDoc-4
-.venv
-yolo11n.pt
-runs/predict/test_yolo11n_batch8
+#duze pliki i obrazy
+PlantDoc-4/
+RCNN/images
+RCNN/images_low_resolution
+RCNN/labels
+RCNN/labels_low_resolution
+RCNN/dataset.zip
+RCNN/README.roboflow.txt
+RCNN/README.dataset.txt
+RCNN/roboflow.zip
+RCNN/output_frcnn_scratch_anchors/*.tfevents*
+
+#pliki środowiska i intelliji idea
+.venv/
+.idea/
+.vscode/
+
+runs/predict
+#pliki modeli i pythonowe logi
+*.pt
+*.pth
+*.onnx
+*.zip
+__pycache__/
+*.log
+*.tmp
+
+!runs/**/results.png
+!runs/**/confusion_matrix_normalized.png
+!runs/**/BoxPR_curve.png

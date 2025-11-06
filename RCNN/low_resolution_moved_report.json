@@ -1,0 +1,1472 @@
+{
+  "threshold_px": 340,
+  "totals_checked": {
+    "train": 2009,
+    "val": 314,
+    "test": 246
+  },
+  "moved": {
+    "train": [
+      {
+        "image": "RCNN\\images\\train\\05-069f12_jpg.rf.aeba6be67ed0b03a3176a73d8f372779.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\05-069f12_jpg.rf.aeba6be67ed0b03a3176a73d8f372779.jpg",
+        "width": 326,
+        "height": 235,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\05-069f1_jpg.rf.a614b1521aae1cb5d66a9bb7c1beb62c.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\05-069f1_jpg.rf.a614b1521aae1cb5d66a9bb7c1beb62c.jpg",
+        "width": 326,
+        "height": 196,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\05-069f9_jpg.rf.9a62a1752b14a82b60cdbfee8b9971b4.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\05-069f9_jpg.rf.9a62a1752b14a82b60cdbfee8b9971b4.jpg",
+        "width": 326,
+        "height": 234,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\05_jpg.rf.750b19c14514f0f224c8d96b28111aaf.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\05_jpg.rf.750b19c14514f0f224c8d96b28111aaf.jpg",
+        "width": 300,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\0gb_jpg.rf.8d76f782f9640f0e7fdf22a2e55d39e8.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\0gb_jpg.rf.8d76f782f9640f0e7fdf22a2e55d39e8.jpg",
+        "width": 300,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\12-20_apple_scab1_jpg.rf.9c1cb2962c98b640e7817c16b5ac6045.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\12-20_apple_scab1_jpg.rf.9c1cb2962c98b640e7817c16b5ac6045.jpg",
+        "width": 225,
+        "height": 154,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\12July_mwnews_3-C_jpg.rf.ad7d168f7effac78b44cbcf2ed9009a2.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\12July_mwnews_3-C_jpg.rf.ad7d168f7effac78b44cbcf2ed9009a2.jpg",
+        "width": 330,
+        "height": 219,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\150px-Plasmopara_viticola_000_jpg.rf.64a941d6fa736879b3ccdc493ad8160c.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\150px-Plasmopara_viticola_000_jpg.rf.64a941d6fa736879b3ccdc493ad8160c.jpg",
+        "width": 150,
+        "height": 150,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\186116-325x209-Northern-Corn-Leaf-Blight-Chilvers_jpg.rf.c5df25ed6bb313fac4e32ce8ecd47fa2.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\186116-325x209-Northern-Corn-Leaf-Blight-Chilvers_jpg.rf.c5df25ed6bb313fac4e32ce8ecd47fa2.jpg",
+        "width": 325,
+        "height": 209,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\1c421500ddd390c90596ad2cf12d5429_jpg.rf.c63399bef55c01bbcf14c99772f2aeb8.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\1c421500ddd390c90596ad2cf12d5429_jpg.rf.c63399bef55c01bbcf14c99772f2aeb8.jpg",
+        "width": 240,
+        "height": 208,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\2009-07-034-black-rot-leaf-and-berry_jpg.rf.04153d10994af1d74da3092b80978f60.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\2009-07-034-black-rot-leaf-and-berry_jpg.rf.04153d10994af1d74da3092b80978f60.jpg",
+        "width": 320,
+        "height": 240,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\220px-Guignardia_bidwellii_08_jpg.rf.0029d9087fa179608d974cab988ba5d6.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\220px-Guignardia_bidwellii_08_jpg.rf.0029d9087fa179608d974cab988ba5d6.jpg",
+        "width": 220,
+        "height": 152,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\220px-Sporulation_on_leaf_JPG_jpg.rf.2156ac88b5c0d9c896ceea19dfe9f2c9.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\220px-Sporulation_on_leaf_JPG_jpg.rf.2156ac88b5c0d9c896ceea19dfe9f2c9.jpg",
+        "width": 220,
+        "height": 293,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\2643371-version-3D1_0-26t-3D1260361493000_jpg.rf.72118a9ddbf1122e50620e171a2f12ba.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\2643371-version-3D1_0-26t-3D1260361493000_jpg.rf.72118a9ddbf1122e50620e171a2f12ba.jpg",
+        "width": 300,
+        "height": 240,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\2OBH_29_Gardening_early_blight_jpg.rf.5b3c325afbf36682ca1c4be5205dff5a.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\2OBH_29_Gardening_early_blight_jpg.rf.5b3c325afbf36682ca1c4be5205dff5a.jpg",
+        "width": 300,
+        "height": 225,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\3606630_jpg.rf.681b8d0aac6a53e1799d390d27f5f280.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\3606630_jpg.rf.681b8d0aac6a53e1799d390d27f5f280.jpg",
+        "width": 325,
+        "height": 216,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\36ca1410e232eec4a8003fe411246820_jpg.rf.3e307ce37bb7a33190a105ae1958a86a.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\36ca1410e232eec4a8003fe411246820_jpg.rf.3e307ce37bb7a33190a105ae1958a86a.jpg",
+        "width": 300,
+        "height": 235,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\3_21_14-Caption-Black-Rot-leaf-infection_-265x265_jpg.rf.3646e1107786a0c210bbbbd0eae529f1.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\3_21_14-Caption-Black-Rot-leaf-infection_-265x265_jpg.rf.3646e1107786a0c210bbbbd0eae529f1.jpg",
+        "width": 265,
+        "height": 265,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\3bacterial-canker1_jpg.rf.1e680645233ba8af4e8497d1557af3d4.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\3bacterial-canker1_jpg.rf.1e680645233ba8af4e8497d1557af3d4.jpg",
+        "width": 320,
+        "height": 240,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\4-6-20Keep-20bacterial-20diseasesMARY-20-20D_jpg.rf.7dd444aa6b35ebe47de33140106adf69.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\4-6-20Keep-20bacterial-20diseasesMARY-20-20D_jpg.rf.7dd444aa6b35ebe47de33140106adf69.jpg",
+        "width": 288,
+        "height": 195,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\4b0bfd_df5a85f728c74cecbe908a24feadab02_jpg.rf.a38de3f0427c21d85ed1eab02f104917.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\4b0bfd_df5a85f728c74cecbe908a24feadab02_jpg.rf.a38de3f0427c21d85ed1eab02f104917.jpg",
+        "width": 173,
+        "height": 244,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\5086-early_jpg.rf.4199b883e01018c86af93658280aad19.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\5086-early_jpg.rf.4199b883e01018c86af93658280aad19.jpg",
+        "width": 250,
+        "height": 301,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\534a_jpg.rf.9fb2900cad04fb809cdc29e27057caa2.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\534a_jpg.rf.9fb2900cad04fb809cdc29e27057caa2.jpg",
+        "width": 300,
+        "height": 200,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\5493139683d035a18fd0dfa12893f38b-outdoor-decor-worms_jpg.rf.770538f57578528306acac13a0c5bd07.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\5493139683d035a18fd0dfa12893f38b-outdoor-decor-worms_jpg.rf.770538f57578528306acac13a0c5bd07.jpg",
+        "width": 236,
+        "height": 314,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\5Tomato-Mosaic-Virus_jpg.rf.0135d3db0727fd0e0f2f452493f7c348.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\5Tomato-Mosaic-Virus_jpg.rf.0135d3db0727fd0e0f2f452493f7c348.jpg",
+        "width": 213,
+        "height": 320,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\600_jpg.rf.6b3d1e557a1aea84cb66918c665482fd.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\600_jpg.rf.6b3d1e557a1aea84cb66918c665482fd.jpg",
+        "width": 300,
+        "height": 336,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\71c944d61b08f6373a9a38d3c250cb2e_jpg.rf.217dbac1626ac8977bdb88b5b616ef2f.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\71c944d61b08f6373a9a38d3c250cb2e_jpg.rf.217dbac1626ac8977bdb88b5b616ef2f.jpg",
+        "width": 236,
+        "height": 314,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\7585001780_4b89e826b7_jpg.rf.538844a0831e8a626fce216ba4f976e5.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\7585001780_4b89e826b7_jpg.rf.538844a0831e8a626fce216ba4f976e5.jpg",
+        "width": 323,
+        "height": 218,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\8950022d45978228d5e44a35183efdb9-tomatoes-dyi_jpg.rf.b9cd9f65acc880630337afad12f1feb3.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\8950022d45978228d5e44a35183efdb9-tomatoes-dyi_jpg.rf.b9cd9f65acc880630337afad12f1feb3.jpg",
+        "width": 236,
+        "height": 314,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Apple-Scab1_jpg.rf.8d623a700b43b77ec2908240055f2bd9.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Apple-Scab1_jpg.rf.8d623a700b43b77ec2908240055f2bd9.jpg",
+        "width": 279,
+        "height": 181,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Apple-Scab_jpg.rf.336e2884574a1df9977d3c9ff438c3cd.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Apple-Scab_jpg.rf.336e2884574a1df9977d3c9ff438c3cd.jpg",
+        "width": 200,
+        "height": 200,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Apple_scab_jpg-t-1473441220256-width-300-height-200-name-Apple_scab_jpg.rf.7eb159b6f97e0ef9348dae361f6dfd9c.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Apple_scab_jpg-t-1473441220256-width-300-height-200-name-Apple_scab_jpg.rf.7eb159b6f97e0ef9348dae361f6dfd9c.jpg",
+        "width": 300,
+        "height": 200,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\ArticleImage_aspx-imgid-4987_jpg.rf.d5e9bb1f07e8fe6c3a2617734643ea79.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\ArticleImage_aspx-imgid-4987_jpg.rf.d5e9bb1f07e8fe6c3a2617734643ea79.jpg",
+        "width": 200,
+        "height": 150,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\BCH-20small-20thumbnail-20for-20upload-20-2814-29_jpg.rf.ef5a34ad818c4896f27ca502b020f384.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\BCH-20small-20thumbnail-20for-20upload-20-2814-29_jpg.rf.ef5a34ad818c4896f27ca502b020f384.jpg",
+        "width": 187,
+        "height": 150,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Bacterial-Spot-Tomatoes_jpg.rf.9143b70c52b6e568960d3c22cd39ddef.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Bacterial-Spot-Tomatoes_jpg.rf.9143b70c52b6e568960d3c22cd39ddef.jpg",
+        "width": 319,
+        "height": 225,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Bacterial-Spot-of-Tomato-Img-2_jpg.rf.1d5263d9a79b3467219f5e36944b0001.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Bacterial-Spot-of-Tomato-Img-2_jpg.rf.1d5263d9a79b3467219f5e36944b0001.jpg",
+        "width": 285,
+        "height": 286,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Bacterial-spot-on-tomato-leaves_jpg.rf.e928aa46d1d92cb9369f9ca16a44c5dc.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Bacterial-spot-on-tomato-leaves_jpg.rf.e928aa46d1d92cb9369f9ca16a44c5dc.jpg",
+        "width": 261,
+        "height": 316,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Bacterial-spot-tomato_jpg.rf.b2a23ec14ab1f573a11f6f94b26ba3a6.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Bacterial-spot-tomato_jpg.rf.b2a23ec14ab1f573a11f6f94b26ba3a6.jpg",
+        "width": 226,
+        "height": 150,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Bean-rust-on-leaves_jpg.rf.c6d7a5c49d93b96e821d9216ade3a4ef.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Bean-rust-on-leaves_jpg.rf.c6d7a5c49d93b96e821d9216ade3a4ef.jpg",
+        "width": 257,
+        "height": 196,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\BlackLeafMold2_jpg.rf.7ddba0db9f2064d21ba1af981501ae1c.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\BlackLeafMold2_jpg.rf.7ddba0db9f2064d21ba1af981501ae1c.jpg",
+        "width": 267,
+        "height": 189,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Cedar-Apple-Rust-aecia-on-leaf-pic-by-NC-State_jpg.rf.aa867cf0b0d53d63ed8eec950989522c.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Cedar-Apple-Rust-aecia-on-leaf-pic-by-NC-State_jpg.rf.aa867cf0b0d53d63ed8eec950989522c.jpg",
+        "width": 200,
+        "height": 162,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Cedar-Apple-rust-on-Crab-apple-leaf_jpg.rf.04de112d4afe40c45a69aaa7de50db29.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Cedar-Apple-rust-on-Crab-apple-leaf_jpg.rf.04de112d4afe40c45a69aaa7de50db29.jpg",
+        "width": 200,
+        "height": 150,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Cedar-apple-rust_JPG_jpg.rf.b0155940173e56e366883e24af09e589.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Cedar-apple-rust_JPG_jpg.rf.b0155940173e56e366883e24af09e589.jpg",
+        "width": 320,
+        "height": 213,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Cedar_apple_rust_on_crab_apple_leaf_showing_underside_cup_jpg.rf.da9b53deaa3863243d89d50b3f6a9edf.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Cedar_apple_rust_on_crab_apple_leaf_showing_underside_cup_jpg.rf.da9b53deaa3863243d89d50b3f6a9edf.jpg",
+        "width": 300,
+        "height": 199,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Corn-Common-Rust-300x225_jpg.rf.dfdfabc0f24c19371fdc0a9fba749da4.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Corn-Common-Rust-300x225_jpg.rf.dfdfabc0f24c19371fdc0a9fba749da4.jpg",
+        "width": 300,
+        "height": 225,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Corn-Gray-leafspot-lesions-300x225_jpg.rf.6dd07d7dad20e8788c8b1bc24a68b6c7.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Corn-Gray-leafspot-lesions-300x225_jpg.rf.6dd07d7dad20e8788c8b1bc24a68b6c7.jpg",
+        "width": 300,
+        "height": 225,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\DSC_3019_320x209_jpg.rf.98e7ab1b6265c7e5982e85b67c13cd82.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\DSC_3019_320x209_jpg.rf.98e7ab1b6265c7e5982e85b67c13cd82.jpg",
+        "width": 209,
+        "height": 320,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\EPP-7625Fig-5-143x300_jpg.rf.f4683fa5a5d7e89aae4230e096436126.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\EPP-7625Fig-5-143x300_jpg.rf.f4683fa5a5d7e89aae4230e096436126.jpg",
+        "width": 143,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\FJ_018_F16271-2_jpg.rf.a91048f22fc95f5a72f4e7553a1ff22e.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\FJ_018_F16271-2_jpg.rf.a91048f22fc95f5a72f4e7553a1ff22e.jpg",
+        "width": 300,
+        "height": 339,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\FJ_018_F16271-3_jpg.rf.18bf90682e35ab991fedabd87f1d3d77.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\FJ_018_F16271-3_jpg.rf.18bf90682e35ab991fedabd87f1d3d77.jpg",
+        "width": 300,
+        "height": 191,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Fig1_Northern_corn_leaf_blight_JPG_jpg.rf.1188aa6dc9ff8aaf0fb503c1f823b42e.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Fig1_Northern_corn_leaf_blight_JPG_jpg.rf.1188aa6dc9ff8aaf0fb503c1f823b42e.jpg",
+        "width": 300,
+        "height": 200,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Fig3_Common_rust_JPG_jpg.rf.9aa272b8dd8c794ebe6fd672fc5941d7.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Fig3_Common_rust_JPG_jpg.rf.9aa272b8dd8c794ebe6fd672fc5941d7.jpg",
+        "width": 300,
+        "height": 200,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Figure-204-20Grey-20leaf-20spot_jpg.rf.4f4ef35c6e25ed938e9b59fd5d4acd8b.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Figure-204-20Grey-20leaf-20spot_jpg.rf.4f4ef35c6e25ed938e9b59fd5d4acd8b.jpg",
+        "width": 253,
+        "height": 241,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\GLS-pic-1-1-225x300_jpg.rf.295a2e1ecf26110e84e0c63b40f9ed51.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\GLS-pic-1-1-225x300_jpg.rf.295a2e1ecf26110e84e0c63b40f9ed51.jpg",
+        "width": 225,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\GX3DYbwOynSj6HftBUajAw_m_jpg.rf.56c3eca46bd8bb4bcd9f747657531cf3.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\GX3DYbwOynSj6HftBUajAw_m_jpg.rf.56c3eca46bd8bb4bcd9f747657531cf3.jpg",
+        "width": 240,
+        "height": 180,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\IMG_1376-300x300_jpg.rf.34a2c3d7c1a48bb106a825bd24b16fad.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\IMG_1376-300x300_jpg.rf.34a2c3d7c1a48bb106a825bd24b16fad.jpg",
+        "width": 300,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\IU-TYLCV_img_8_jpg.rf.5049e644f16632143f5664055db9fa26.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\IU-TYLCV_img_8_jpg.rf.5049e644f16632143f5664055db9fa26.jpg",
+        "width": 250,
+        "height": 313,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\LB-2-225x300_jpg.rf.7fad3e1c736af2f334e655d630b6c369.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\LB-2-225x300_jpg.rf.7fad3e1c736af2f334e655d630b6c369.jpg",
+        "width": 225,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Late-blight-leaves_261x240_jpg.rf.c97a278418b8f64c17f847ee00859c2f.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Late-blight-leaves_261x240_jpg.rf.c97a278418b8f64c17f847ee00859c2f.jpg",
+        "width": 261,
+        "height": 240,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Leaf-Spot-300x253_jpg.rf.3db8678717080f984b0c958902fd5676.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Leaf-Spot-300x253_jpg.rf.3db8678717080f984b0c958902fd5676.jpg",
+        "width": 300,
+        "height": 253,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Leaf-spots-on-tomato-leaves-Credits-Hank-Dankers_Q320_jpg.rf.1d383257ca96187d276e21fa3d63ce5a.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Leaf-spots-on-tomato-leaves-Credits-Hank-Dankers_Q320_jpg.rf.1d383257ca96187d276e21fa3d63ce5a.jpg",
+        "width": 320,
+        "height": 320,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Leaves-with-early-blight-need-to-be-removed-225x300_jpg.rf.f93e3939de67d792ca728b342887574d.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Leaves-with-early-blight-need-to-be-removed-225x300_jpg.rf.f93e3939de67d792ca728b342887574d.jpg",
+        "width": 225,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\MPC105550_jpg_rendition_largest_ss_jpg.rf.2ff5e84cfa70e1d2b7dbc028de018075.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\MPC105550_jpg_rendition_largest_ss_jpg.rf.2ff5e84cfa70e1d2b7dbc028de018075.jpg",
+        "width": 300,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Malus-Scab-disease-225x300_jpg.rf.804e3e9e5b6f6392ae17f49c73e6bb08.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Malus-Scab-disease-225x300_jpg.rf.804e3e9e5b6f6392ae17f49c73e6bb08.jpg",
+        "width": 225,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Potato-earlyblight2_jpg.rf.b6d802b1ae05b53e6eafa6940bba35bf.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Potato-earlyblight2_jpg.rf.b6d802b1ae05b53e6eafa6940bba35bf.jpg",
+        "width": 300,
+        "height": 197,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Potato-late-blight-caused-by-Phytophthora-infestans_Q320_jpg.rf.2125d1c998672a8a5d7bb53c7c4382bc.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Potato-late-blight-caused-by-Phytophthora-infestans_Q320_jpg.rf.2125d1c998672a8a5d7bb53c7c4382bc.jpg",
+        "width": 320,
+        "height": 320,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\PotatoLateBlight2_jpg.rf.e9db441563f3ff90bb8152b95dc3e274.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\PotatoLateBlight2_jpg.rf.e9db441563f3ff90bb8152b95dc3e274.jpg",
+        "width": 313,
+        "height": 208,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\RyBx7MH_jpg.rf.865411a018003536630474fc2638bfc9.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\RyBx7MH_jpg.rf.865411a018003536630474fc2638bfc9.jpg",
+        "width": 259,
+        "height": 194,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Sept9-300x225_jpg.rf.42235d17397f5b0d97c3fb10dbaa349a.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Sept9-300x225_jpg.rf.42235d17397f5b0d97c3fb10dbaa349a.jpg",
+        "width": 300,
+        "height": 225,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Septoria_Leaf_Spot_jpg.rf.c36a5c965c7a6e7dd80c483a63509d69.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Septoria_Leaf_Spot_jpg.rf.c36a5c965c7a6e7dd80c483a63509d69.jpg",
+        "width": 208,
+        "height": 228,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Southern-Rust4-300x200_jpg.rf.d7c9a2c7ed2e511f10b6e03039e147e5.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Southern-Rust4-300x200_jpg.rf.d7c9a2c7ed2e511f10b6e03039e147e5.jpg",
+        "width": 300,
+        "height": 200,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Squash_powdery-mildew_jpg.rf.048a9c26f6b39146aac22d22b5cc9c61.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Squash_powdery-mildew_jpg.rf.048a9c26f6b39146aac22d22b5cc9c61.jpg",
+        "width": 300,
+        "height": 225,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\TC6-300x194_jpg.rf.f610da589e72b5efad584c84eac19713.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\TC6-300x194_jpg.rf.f610da589e72b5efad584c84eac19713.jpg",
+        "width": 300,
+        "height": 194,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\TNRV2_jpg.rf.5171384ccdb2cba4b650f9a0f7d155f8.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\TNRV2_jpg.rf.5171384ccdb2cba4b650f9a0f7d155f8.jpg",
+        "width": 287,
+        "height": 217,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Tomato-20early-20blight-20target-20like-20leaf-20spot_jpg.rf.97ccca644170e7f06cb60f92fdf8bb0c.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Tomato-20early-20blight-20target-20like-20leaf-20spot_jpg.rf.97ccca644170e7f06cb60f92fdf8bb0c.jpg",
+        "width": 286,
+        "height": 209,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Tomato-Early-Blight_jpg.rf.3d583275c2ee2d4f515f6068f70ec4dc.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Tomato-Early-Blight_jpg.rf.3d583275c2ee2d4f515f6068f70ec4dc.jpg",
+        "width": 275,
+        "height": 206,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Tomato-brown-rugose-fruit-virus-ToBRFV-infected-tomato-Solanum-lycopersicum-plants_Q320_jpg.rf.00f23aafeb589f2e9bcd9fac076f7bb8.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Tomato-brown-rugose-fruit-virus-ToBRFV-infected-tomato-Solanum-lycopersicum-plants_Q320_jpg.rf.00f23aafeb589f2e9bcd9fac076f7bb8.jpg",
+        "width": 320,
+        "height": 320,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\Tomato-mosaic-virus_jpg.rf.afbb3d87123f9a4c4dea7a72fde1fa43.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\Tomato-mosaic-virus_jpg.rf.afbb3d87123f9a4c4dea7a72fde1fa43.jpg",
+        "width": 179,
+        "height": 150,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\TomatoBacterialSpot2_jpg.rf.23ecf20c057a83302f58ccb598785627.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\TomatoBacterialSpot2_jpg.rf.23ecf20c057a83302f58ccb598785627.jpg",
+        "width": 322,
+        "height": 268,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\TomatoLateBlight-3-Underside-2ebj05b-300x225_jpg.rf.8945b0d726c1fb4443cba30ac6ed6f08.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\TomatoLateBlight-3-Underside-2ebj05b-300x225_jpg.rf.8945b0d726c1fb4443cba30ac6ed6f08.jpg",
+        "width": 300,
+        "height": 225,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\ab40cce958c60d8b6e0ec2e4fdb8f526_jpg.rf.216e60318c768fe2dd3ccd87d63ffbe9.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\ab40cce958c60d8b6e0ec2e4fdb8f526_jpg.rf.216e60318c768fe2dd3ccd87d63ffbe9.jpg",
+        "width": 300,
+        "height": 321,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\ac9201ad84e0987e6fdd2589258d72fd_jpg.rf.efd63225ff08f4c9f03b719bc3a12fe3.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\ac9201ad84e0987e6fdd2589258d72fd_jpg.rf.efd63225ff08f4c9f03b719bc3a12fe3.jpg",
+        "width": 230,
+        "height": 286,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\alter_cank2-150x150_jpg.rf.2c565524cca59f717a8670996e2c808d.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\alter_cank2-150x150_jpg.rf.2c565524cca59f717a8670996e2c808d.jpg",
+        "width": 150,
+        "height": 150,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\apple_scab1_jpg.rf.5a9cf4795b152314250d0c654ee65067.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\apple_scab1_jpg.rf.5a9cf4795b152314250d0c654ee65067.jpg",
+        "width": 275,
+        "height": 193,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\apple_scab2_jpg.rf.9c784d8584bb9bd87fcda8415565727c.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\apple_scab2_jpg.rf.9c784d8584bb9bd87fcda8415565727c.jpg",
+        "width": 252,
+        "height": 258,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\apple_scab_1465_180_jpg.rf.660b2335ab58e3e16ee1cd5585ace77d.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\apple_scab_1465_180_jpg.rf.660b2335ab58e3e16ee1cd5585ace77d.jpg",
+        "width": 180,
+        "height": 269,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\applescab_lf_jpg.rf.c9a7947acb5b4492a3472d6746a6e3a8.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\applescab_lf_jpg.rf.c9a7947acb5b4492a3472d6746a6e3a8.jpg",
+        "width": 269,
+        "height": 202,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\appscab_jpg.rf.fea8c05b167dbbefd2d4deb2994209bc.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\appscab_jpg.rf.fea8c05b167dbbefd2d4deb2994209bc.jpg",
+        "width": 275,
+        "height": 150,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\b3a52d4eda0deedc34260c4dee847a5b_jpg.rf.d9635e81a1d62fb1762e18eaee0a61cc.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\b3a52d4eda0deedc34260c4dee847a5b_jpg.rf.d9635e81a1d62fb1762e18eaee0a61cc.jpg",
+        "width": 250,
+        "height": 249,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\b54d0e40027ff5e90e8ba7e1e9abf9bd_jpg.rf.4036664de6fd4abe25a28a4c5d0e1503.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\b54d0e40027ff5e90e8ba7e1e9abf9bd_jpg.rf.4036664de6fd4abe25a28a4c5d0e1503.jpg",
+        "width": 200,
+        "height": 150,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\b6ca3f80-cc10-4d4f-be0d-771deb9a4969_jpeg_jpg.rf.26d6b58e20437fb4ec9ab0cd26f883d9.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\b6ca3f80-cc10-4d4f-be0d-771deb9a4969_jpeg_jpg.rf.26d6b58e20437fb4ec9ab0cd26f883d9.jpg",
+        "width": 198,
+        "height": 143,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\bac_spot1-300x298_jpg.rf.fa92a7a5f5a43697da920a99b9c975c3.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\bac_spot1-300x298_jpg.rf.fa92a7a5f5a43697da920a99b9c975c3.jpg",
+        "width": 300,
+        "height": 298,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\bacterial-corn-300x300_jpg.rf.6e084fb8850900758ba2037cda37ab2a.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\bacterial-corn-300x300_jpg.rf.6e084fb8850900758ba2037cda37ab2a.jpg",
+        "width": 300,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\bd0b83af4c5e4b739ccc6c36fa66f141_jpg.rf.061c0e239f576c764245bed3dc01ca7c.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\bd0b83af4c5e4b739ccc6c36fa66f141_jpg.rf.061c0e239f576c764245bed3dc01ca7c.jpg",
+        "width": 236,
+        "height": 314,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\black-20spot-20-2819-29_JPG-itok-mf4II8zq_jpg.rf.ec2497b6a4a0429387754ef3da2753f1.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\black-20spot-20-2819-29_JPG-itok-mf4II8zq_jpg.rf.ec2497b6a4a0429387754ef3da2753f1.jpg",
+        "width": 320,
+        "height": 240,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\car1_jpg.rf.2ff1a75ccf8494282f932db266bdc705.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\car1_jpg.rf.2ff1a75ccf8494282f932db266bdc705.jpg",
+        "width": 320,
+        "height": 320,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\cedar-apple-rest-225x300_jpg.rf.d46eb736c3d117ab9d51a90643e3c92f.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\cedar-apple-rest-225x300_jpg.rf.d46eb736c3d117ab9d51a90643e3c92f.jpg",
+        "width": 225,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\cedar-apple-rust_jpg.rf.360e3cc28cc1ef42e29af0a5606d5de2.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\cedar-apple-rust_jpg.rf.360e3cc28cc1ef42e29af0a5606d5de2.jpg",
+        "width": 270,
+        "height": 270,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\cedar_apple_rust_3_JPG-1362772840_jpg.rf.901f72c29bb1bda0e5e40a4c0cbecf49.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\cedar_apple_rust_3_JPG-1362772840_jpg.rf.901f72c29bb1bda0e5e40a4c0cbecf49.jpg",
+        "width": 220,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\clip_image010_jpg.rf.36efe8add3ccf3167e300f77e2b9fb4f.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\clip_image010_jpg.rf.36efe8add3ccf3167e300f77e2b9fb4f.jpg",
+        "width": 300,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\common-rust-in-field-300x200_jpg.rf.1b7f1c5277ecda9da45ea52bfa1a108f.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\common-rust-in-field-300x200_jpg.rf.1b7f1c5277ecda9da45ea52bfa1a108f.jpg",
+        "width": 300,
+        "height": 200,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\corn-gls-bls-lesion-comparison_jpg.rf.2f8ac2c42a82cc066c8a4e3ffda65dee.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\corn-gls-bls-lesion-comparison_jpg.rf.2f8ac2c42a82cc066c8a4e3ffda65dee.jpg",
+        "width": 336,
+        "height": 256,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\cornGLS2_jpg.rf.69ffa63ab00eb8b1bac1296584ef719e.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\cornGLS2_jpg.rf.69ffa63ab00eb8b1bac1296584ef719e.jpg",
+        "width": 328,
+        "height": 247,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\corn_disease_clip_image001_0003_jpg.rf.2f8f4bbd04e68e28cc8d31a90c49cd0f.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\corn_disease_clip_image001_0003_jpg.rf.2f8f4bbd04e68e28cc8d31a90c49cd0f.jpg",
+        "width": 259,
+        "height": 308,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\d41c86a650e49b8066d6b347d8e9d3ad_jpg.rf.888da68d5a931c07f741d8d48cf62fae.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\d41c86a650e49b8066d6b347d8e9d3ad_jpg.rf.888da68d5a931c07f741d8d48cf62fae.jpg",
+        "width": 205,
+        "height": 216,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\dc4cfbd6f94d0435ab166a06acb1cde0_jpg.rf.d11e4aad9890904b91b56b706afe7f5d.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\dc4cfbd6f94d0435ab166a06acb1cde0_jpg.rf.d11e4aad9890904b91b56b706afe7f5d.jpg",
+        "width": 189,
+        "height": 266,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\dummen-tmv_jpg.rf.270ed3d048d4fdf48cb755a3e8d1f90b.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\dummen-tmv_jpg.rf.270ed3d048d4fdf48cb755a3e8d1f90b.jpg",
+        "width": 300,
+        "height": 297,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\early-blight-or-target-spot-alternaria-solani-lesions-on-a-tomato-by9j8r_jpg.rf.87e0f6cff7d113c2e8ed16edf7671151.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\early-blight-or-target-spot-alternaria-solani-lesions-on-a-tomato-by9j8r_jpg.rf.87e0f6cff7d113c2e8ed16edf7671151.jpg",
+        "width": 307,
+        "height": 320,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\early-tomato-blight_jpg.rf.530e5c2f133f1318e422f55e56a7f453.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\early-tomato-blight_jpg.rf.530e5c2f133f1318e422f55e56a7f453.jpg",
+        "width": 150,
+        "height": 150,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\early_blight_jpg.rf.33b76abffcfd2fb61bc8cfb6c98acf6a.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\early_blight_jpg.rf.33b76abffcfd2fb61bc8cfb6c98acf6a.jpg",
+        "width": 250,
+        "height": 249,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\earlyblight_jpg.rf.4dfd9777cae95178608357b44f5905b5.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\earlyblight_jpg.rf.4dfd9777cae95178608357b44f5905b5.jpg",
+        "width": 298,
+        "height": 246,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\earlyblightresize_jpg.rf.aef5a45ab404a22145355dbfa7fe7e72.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\earlyblightresize_jpg.rf.aef5a45ab404a22145355dbfa7fe7e72.jpg",
+        "width": 320,
+        "height": 240,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\fac66s01h_jpg.rf.e37661a74ef17f56d58d57fd5e4156d3.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\fac66s01h_jpg.rf.e37661a74ef17f56d58d57fd5e4156d3.jpg",
+        "width": 316,
+        "height": 228,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\fig1-2k11-163-165_jpg.rf.7d6eda6a6471414bfa5685878fe97fbf.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\fig1-2k11-163-165_jpg.rf.7d6eda6a6471414bfa5685878fe97fbf.jpg",
+        "width": 231,
+        "height": 247,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\fig2-2k11-1-12_jpg.rf.7d6f7ee5c91c559e60ade43bfec28ebf.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\fig2-2k11-1-12_jpg.rf.7d6f7ee5c91c559e60ade43bfec28ebf.jpg",
+        "width": 248,
+        "height": 212,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\g14-1680-6_jpg.rf.b748cdfa41e8c56927c12c0f835a25be.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\g14-1680-6_jpg.rf.b748cdfa41e8c56927c12c0f835a25be.jpg",
+        "width": 320,
+        "height": 240,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\g1902-3b_jpg.rf.81bc602ee86b338012a71710be1d94c3.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\g1902-3b_jpg.rf.81bc602ee86b338012a71710be1d94c3.jpg",
+        "width": 300,
+        "height": 236,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\gray-leaf-spot-300x225_jpg.rf.69a0a44e24f76bc7520fef88b4a63d1a.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\gray-leaf-spot-300x225_jpg.rf.69a0a44e24f76bc7520fef88b4a63d1a.jpg",
+        "width": 300,
+        "height": 225,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\gray-leafspt-09-227x300_jpg.rf.62a4e9b7670d0820ce32ccbba1b4d8f3.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\gray-leafspt-09-227x300_jpg.rf.62a4e9b7670d0820ce32ccbba1b4d8f3.jpg",
+        "width": 227,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\gray-mold-on-tomato-leaf_jpg.rf.f47ddf7c5e2f42050121507170f1309b.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\gray-mold-on-tomato-leaf_jpg.rf.f47ddf7c5e2f42050121507170f1309b.jpg",
+        "width": 224,
+        "height": 209,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\halleck_tomato_earlyblight__inline-half_jpg.rf.003d801dba71631af1204951ae400297.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\halleck_tomato_earlyblight__inline-half_jpg.rf.003d801dba71631af1204951ae400297.jpg",
+        "width": 303,
+        "height": 296,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\image005_jpg.rf.44cf5bd055200b7a00989ff6dec0e720.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\image005_jpg.rf.44cf5bd055200b7a00989ff6dec0e720.jpg",
+        "width": 329,
+        "height": 220,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\image233_jpg.rf.cc047b58ea9eeb0dc844329720cdea90.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\image233_jpg.rf.cc047b58ea9eeb0dc844329720cdea90.jpg",
+        "width": 250,
+        "height": 188,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\image393_jpg.rf.2eee71edb8b8d48f768806b63018dfe2.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\image393_jpg.rf.2eee71edb8b8d48f768806b63018dfe2.jpg",
+        "width": 250,
+        "height": 200,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\image5_300x300-2523_JPG-1472755422_jpg.rf.0e8b20901d614a181793cfd1d83e3d75.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\image5_300x300-2523_JPG-1472755422_jpg.rf.0e8b20901d614a181793cfd1d83e3d75.jpg",
+        "width": 300,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\image66_jpg.rf.3c82830b7121264fa29291a6234b2086.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\image66_jpg.rf.3c82830b7121264fa29291a6234b2086.jpg",
+        "width": 231,
+        "height": 159,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\image_300x300-2523_jpeg-1472603885_jpg.rf.21e10ad77514186b8e520dc631681a6a.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\image_300x300-2523_jpeg-1472603885_jpg.rf.21e10ad77514186b8e520dc631681a6a.jpg",
+        "width": 300,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\image_300x300-2523_jpeg-1472603886_jpg.rf.086bd226490ee26da751828a9d45fc28.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\image_300x300-2523_jpeg-1472603886_jpg.rf.086bd226490ee26da751828a9d45fc28.jpg",
+        "width": 300,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\late_blight_tomato_leaf_jpg.rf.b742e0fddc25358cf68989d6565b9a16.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\late_blight_tomato_leaf_jpg.rf.b742e0fddc25358cf68989d6565b9a16.jpg",
+        "width": 250,
+        "height": 249,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\leaf-20curl_3_jpg.rf.994a2ffc2354b872e44b126cc7d32932.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\leaf-20curl_3_jpg.rf.994a2ffc2354b872e44b126cc7d32932.jpg",
+        "width": 259,
+        "height": 194,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\leafmold_jpg.rf.5a0eed9b11f4d0e0caf08543e3499425.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\leafmold_jpg.rf.5a0eed9b11f4d0e0caf08543e3499425.jpg",
+        "width": 238,
+        "height": 155,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\leafmoldtomato1_jpg.rf.2ed20413813cc6f660095838579fe3b1.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\leafmoldtomato1_jpg.rf.2ed20413813cc6f660095838579fe3b1.jpg",
+        "width": 320,
+        "height": 240,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\mosaic_virus_tomato_small_jpg.rf.d49f62ec6061fe5cee0bed8470d75791.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\mosaic_virus_tomato_small_jpg.rf.d49f62ec6061fe5cee0bed8470d75791.jpg",
+        "width": 150,
+        "height": 138,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\potatoearlyblightcloseup_pdc_jpg.rf.002ca8037985c24d96b2aa2eed1ba0f6.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\potatoearlyblightcloseup_pdc_jpg.rf.002ca8037985c24d96b2aa2eed1ba0f6.jpg",
+        "width": 328,
+        "height": 288,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\potatolb_symptoms_meg-cornell_300x225_jpg.rf.15601b7571139033acfa69a68abd80d7.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\potatolb_symptoms_meg-cornell_300x225_jpg.rf.15601b7571139033acfa69a68abd80d7.jpg",
+        "width": 300,
+        "height": 225,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\powderymildew_300_jpg.rf.4150e071f4867f1b0a795dff54f0f216.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\powderymildew_300_jpg.rf.4150e071f4867f1b0a795dff54f0f216.jpg",
+        "width": 300,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\pp1244-05_jpeg_jpg.rf.a30eb5da3259fbe1226f41c17d8b11dd.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\pp1244-05_jpeg_jpg.rf.a30eb5da3259fbe1226f41c17d8b11dd.jpg",
+        "width": 320,
+        "height": 236,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\r_tomato_jpg.rf.46c6d0472dc29bc5b69791593d31d01d.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\r_tomato_jpg.rf.46c6d0472dc29bc5b69791593d31d01d.jpg",
+        "width": 288,
+        "height": 198,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\s-l300_jpg.rf.aa211bbec8eb3e56e2ec2c583f37e80c.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\s-l300_jpg.rf.aa211bbec8eb3e56e2ec2c583f37e80c.jpg",
+        "width": 300,
+        "height": 253,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\s-prasanth-kumar-young-scientist-awarded-presentation-2-728_jpg.rf.ac0bb308615b0f9d80dd6ab7532e9228.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\s-prasanth-kumar-young-scientist-awarded-presentation-2-728_jpg.rf.ac0bb308615b0f9d80dd6ab7532e9228.jpg",
+        "width": 320,
+        "height": 159,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\scab-disease-apple-leaf-macro-62212448_jpg.rf.8cbaf79293f034d076bb99bde30854ac.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\scab-disease-apple-leaf-macro-62212448_jpg.rf.8cbaf79293f034d076bb99bde30854ac.jpg",
+        "width": 240,
+        "height": 160,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\scab-disease-small_jpg.rf.971926041ed321a174f5256106c545df.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\scab-disease-small_jpg.rf.971926041ed321a174f5256106c545df.jpg",
+        "width": 239,
+        "height": 299,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\scab-on-foliage-300x259_jpg.rf.967f0aba716fb441f423d1bfe17b377d.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\scab-on-foliage-300x259_jpg.rf.967f0aba716fb441f423d1bfe17b377d.jpg",
+        "width": 300,
+        "height": 259,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\scab_on_leaf_jpg.rf.f7f090d55f90faea6a6a25068822a11f.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\scab_on_leaf_jpg.rf.f7f090d55f90faea6a6a25068822a11f.jpg",
+        "width": 119,
+        "height": 200,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\septoria-leaf-spot-2_jpg.rf.8cbe7c1c1d5c326eaf454ac62627c2d3.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\septoria-leaf-spot-2_jpg.rf.8cbe7c1c1d5c326eaf454ac62627c2d3.jpg",
+        "width": 250,
+        "height": 250,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\uuid-3D23d9bc54-c4a7-4958-890c-0505ac310594-26groupId-3D1841-26t-3D1278717199836_jpg.rf.f4bfca5113e612c0a6a88edc2d97a616.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\uuid-3D23d9bc54-c4a7-4958-890c-0505ac310594-26groupId-3D1841-26t-3D1278717199836_jpg.rf.f4bfca5113e612c0a6a88edc2d97a616.jpg",
+        "width": 320,
+        "height": 228,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\vdu-tomato-sept-eb-285x300_jpg.rf.7c55a952f61af8321ca12d812b596cbf.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\vdu-tomato-sept-eb-285x300_jpg.rf.7c55a952f61af8321ca12d812b596cbf.jpg",
+        "width": 166,
+        "height": 137,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\xgray-leaf-spot_jpg_pagespeed_ic_ltF8KfKtQ1_jpg.rf.600e32432f8879e52d4e41dfd270cbf6.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\xgray-leaf-spot_jpg_pagespeed_ic_ltF8KfKtQ1_jpg.rf.600e32432f8879e52d4e41dfd270cbf6.jpg",
+        "width": 205,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\train\\yellowing_JPG_jpg.rf.6ab822e2385a428f66dc370476a74710.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\train\\yellowing_JPG_jpg.rf.6ab822e2385a428f66dc370476a74710.jpg",
+        "width": 295,
+        "height": 320,
+        "label": null,
+        "label_dst": null
+      }
+    ],
+    "val": [
+      {
+        "image": "RCNN\\images\\val\\septoria-leaf-spot-tomato-1_jpg.rf.33776bb7f3fcd70c4c3fe73b2369b306.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\septoria-leaf-spot-tomato-1_jpg.rf.33776bb7f3fcd70c4c3fe73b2369b306.jpg",
+        "width": 300,
+        "height": 200,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\septoria-tomato-leaf_jpg.rf.4e35ff53179188b2b96acdc3db7f3662.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\septoria-tomato-leaf_jpg.rf.4e35ff53179188b2b96acdc3db7f3662.jpg",
+        "width": 300,
+        "height": 206,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\septorialeafspot_jpg.rf.59ceaaab0316185d87e82c1eb6b0e051.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\septorialeafspot_jpg.rf.59ceaaab0316185d87e82c1eb6b0e051.jpg",
+        "width": 300,
+        "height": 305,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\sls1_jpg.rf.c99eab806ba3f3bd3b15567df24068f2.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\sls1_jpg.rf.c99eab806ba3f3bd3b15567df24068f2.jpg",
+        "width": 160,
+        "height": 200,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\spotonleaf1_jpg.rf.d0fa6357da76e905ec37110a6ba94a17.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\spotonleaf1_jpg.rf.d0fa6357da76e905ec37110a6ba94a17.jpg",
+        "width": 300,
+        "height": 225,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\swcdg1-e1482969712678-300x188_jpg.rf.617bd484ee82b72d8ee0ddb03186c834.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\swcdg1-e1482969712678-300x188_jpg.rf.617bd484ee82b72d8ee0ddb03186c834.jpg",
+        "width": 300,
+        "height": 188,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\thrips001_jpg.rf.4f0a68039c97890317c7908d3098c8fd.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\thrips001_jpg.rf.4f0a68039c97890317c7908d3098c8fd.jpg",
+        "width": 202,
+        "height": 202,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\tomato-gray-leaf-spot_jpg.rf.b0507243425a5bc7e165703471a4dc4a.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\tomato-gray-leaf-spot_jpg.rf.b0507243425a5bc7e165703471a4dc4a.jpg",
+        "width": 150,
+        "height": 150,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\tomato-late-blight-leaf-61-3x32_jpg.rf.4b607bdd2fe2111ed99612990f1695e3.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\tomato-late-blight-leaf-61-3x32_jpg.rf.4b607bdd2fe2111ed99612990f1695e3.jpg",
+        "width": 300,
+        "height": 154,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\tomato-leaf-mold-2_jpg.rf.db21257d45724556f03732b7bd3c2a4e.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\tomato-leaf-mold-2_jpg.rf.db21257d45724556f03732b7bd3c2a4e.jpg",
+        "width": 150,
+        "height": 100,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\tomato-leaf-mold_jpg.rf.1d7e04e10c66dc53138c174c52666990.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\tomato-leaf-mold_jpg.rf.1d7e04e10c66dc53138c174c52666990.jpg",
+        "width": 150,
+        "height": 150,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\tomato-mosaic-virus_jpg.rf.2ddfb4bf55f89509720f6a4b1e34dace.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\tomato-mosaic-virus_jpg.rf.2ddfb4bf55f89509720f6a4b1e34dace.jpg",
+        "width": 150,
+        "height": 150,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\tomato-septoria-leaf-spot_jpg.rf.284f4906a9d844a330c24524f646b2f1.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\tomato-septoria-leaf-spot_jpg.rf.284f4906a9d844a330c24524f646b2f1.jpg",
+        "width": 150,
+        "height": 150,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\tomato_Leaf-roll-physiological-7059-SLoewen_thm_jpg.rf.7f61192b384536d363f929b6f6208700.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\tomato_Leaf-roll-physiological-7059-SLoewen_thm_jpg.rf.7f61192b384536d363f929b6f6208700.jpg",
+        "width": 115,
+        "height": 85,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\tomato_leaf_curl_ND_on_luffah_KC3701030-3_jpg.rf.b824989063c6765c74928091bda38599.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\tomato_leaf_curl_ND_on_luffah_KC3701030-3_jpg.rf.b824989063c6765c74928091bda38599.jpg",
+        "width": 190,
+        "height": 148,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\tomato_leaf_roll_JPG_jpg.rf.ce370a83e965fd806302c485a58f5a98.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\tomato_leaf_roll_JPG_jpg.rf.ce370a83e965fd806302c485a58f5a98.jpg",
+        "width": 115,
+        "height": 170,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\tomato_leaves_300x300-2523_jpg.rf.19344cbaf8132b340d0ef18195e8e08b.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\tomato_leaves_300x300-2523_jpg.rf.19344cbaf8132b340d0ef18195e8e08b.jpg",
+        "width": 300,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\val\\tomato_xanthomonas_foliage_jpg.rf.f53e348f309cab8a446ff61509afe8e9.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\val\\tomato_xanthomonas_foliage_jpg.rf.f53e348f309cab8a446ff61509afe8e9.jpg",
+        "width": 264,
+        "height": 209,
+        "label": null,
+        "label_dst": null
+      }
+    ],
+    "test": [
+      {
+        "image": "RCNN\\images\\test\\07_17_18-Common_Tomato_Diseases_Canker-258x300_jpg.rf.a0d5fcd5473162b82bfb860c56710ef6.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\test\\07_17_18-Common_Tomato_Diseases_Canker-258x300_jpg.rf.a0d5fcd5473162b82bfb860c56710ef6.jpg",
+        "width": 258,
+        "height": 300,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\test\\49-20Leafmold-20Bottom_jpg.rf.fb818259b9088ea8db5c658839083777.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\test\\49-20Leafmold-20Bottom_jpg.rf.fb818259b9088ea8db5c658839083777.jpg",
+        "width": 252,
+        "height": 137,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\test\\50-20Leafmold-20Top_jpg.rf.2e1e53a8d2fb2ed4e4c37f455c183683.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\test\\50-20Leafmold-20Top_jpg.rf.2e1e53a8d2fb2ed4e4c37f455c183683.jpg",
+        "width": 252,
+        "height": 162,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\test\\816_jpg.rf.e735367aa4e04fe1b91ebff897b28484.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\test\\816_jpg.rf.e735367aa4e04fe1b91ebff897b28484.jpg",
+        "width": 330,
+        "height": 275,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\test\\9343310-small_jpg.rf.32f51699e9cf9e265318099b96fe1666.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\test\\9343310-small_jpg.rf.32f51699e9cf9e265318099b96fe1666.jpg",
+        "width": 155,
+        "height": 206,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\test\\Bacterial-spot-pepper2_jpg.rf.513af3f970230791d1892dd8f653fd60.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\test\\Bacterial-spot-pepper2_jpg.rf.513af3f970230791d1892dd8f653fd60.jpg",
+        "width": 221,
+        "height": 166,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\test\\Common-20Diseases-20Figure-201_JPG_jpg.rf.364ff33e1e45bf51c317f226596e3eb4.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\test\\Common-20Diseases-20Figure-201_JPG_jpg.rf.364ff33e1e45bf51c317f226596e3eb4.jpg",
+        "width": 188,
+        "height": 317,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\test\\Tomato-Mosaic-1wdr2jx-300x225_jpg.rf.e09a37f2ed27655405e5e469896b7cdc.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\test\\Tomato-Mosaic-1wdr2jx-300x225_jpg.rf.e09a37f2ed27655405e5e469896b7cdc.jpg",
+        "width": 130,
+        "height": 69,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\test\\apples_apple-scab_02_thm_jpg.rf.e18ddff12303d35189e4b2a94e909ce2.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\test\\apples_apple-scab_02_thm_jpg.rf.e18ddff12303d35189e4b2a94e909ce2.jpg",
+        "width": 115,
+        "height": 85,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\test\\early_blight1-150x150_jpg.rf.293f2ff1ce08018c4702ea9860f42784.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\test\\early_blight1-150x150_jpg.rf.293f2ff1ce08018c4702ea9860f42784.jpg",
+        "width": 150,
+        "height": 150,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\test\\fresh-soy-leaves-isolated-on-260nw-667193923_jpg.rf.f8bb3b073948c0a6abff06d63c69acb6.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\test\\fresh-soy-leaves-isolated-on-260nw-667193923_jpg.rf.f8bb3b073948c0a6abff06d63c69acb6.jpg",
+        "width": 317,
+        "height": 280,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\test\\fwa2013313115151_jpg.rf.20aaa00fc0c8c2a4193844a2e8f02af5.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\test\\fwa2013313115151_jpg.rf.20aaa00fc0c8c2a4193844a2e8f02af5.jpg",
+        "width": 320,
+        "height": 240,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\test\\pix053_jpg.rf.26a16548140d500fdfe285209df445ba.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\test\\pix053_jpg.rf.26a16548140d500fdfe285209df445ba.jpg",
+        "width": 227,
+        "height": 270,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\test\\potatobd001_jpg.rf.95c1a7efd6b018c7fcc7c417aaa20564.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\test\\potatobd001_jpg.rf.95c1a7efd6b018c7fcc7c417aaa20564.jpg",
+        "width": 230,
+        "height": 150,
+        "label": null,
+        "label_dst": null
+      },
+      {
+        "image": "RCNN\\images\\test\\summersquashpowderymildew_jpg.rf.b570282be06fe060a5afe59f3c5a3619.jpg",
+        "image_dst": "RCNN\\images_low_resolution\\test\\summersquashpowderymildew_jpg.rf.b570282be06fe060a5afe59f3c5a3619.jpg",
+        "width": 231,
+        "height": 178,
+        "label": null,
+        "label_dst": null
+      }
+    ]
+  }
+}

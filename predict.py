@@ -6,11 +6,11 @@ import csv
 import numpy as np
 import statistics
 
-MODEL_PATH = Path(r"C:\Users\Majkel\Desktop\STUDIA\praca\PlantDoc\runs\detect\plantdoc_yolo11s\weights\best.pt")
+MODEL_PATH = Path(r"runs/detect/plantdoc_yolo_11m_512/weights/best.pt")
 #DATA = Path(r"C:\Users\Majkel\Desktop\STUDIA\praca\PlantDoc\PlantDoc-4\data.yaml")
 #TEST_DIR   = Path(r"C:\Users\Majkel\Desktop\STUDIA\praca\PlantDoc\PlantDoc-4\test\images")
-TEST_DIR   = Path(r"C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg")
-SAVE_DIR   = Path(r"C:\Users\Majkel\Desktop\STUDIA\praca\PlantDoc\runs\predict\myphotos_yolo11s")
+TEST_DIR   = Path(r"PlantDoc-4/reduced/test/images")
+SAVE_DIR   = Path(r"\runs/predict/myphotos_yolo11s_optimized")
 
 def main():
     device = "cuda" if torch.cuda.is_available() else "cpu"

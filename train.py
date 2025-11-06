@@ -3,7 +3,7 @@ import torch
 from pathlib import Path
 
 
-DATA = Path(r"C:\Users\Majkel\Desktop\STUDIA\praca\PlantDoc\PlantDoc-4\data.yaml")
+DATA = Path(r"PlantDoc-4/data.yaml")
 
 IMGSZ  = 640
 BATCH  = 8
@@ -24,13 +24,13 @@ def main():
         batch=BATCH,
         epochs=EPOCHS,
         project="./runs/detect",
-        name="plantdoc_yolo11_640",
+        name="plantdoc_yolo11_optimized_dataset",
         workers=0,
         device=0 if device == "cuda" else "cpu",
     )
 
     print("\nTrening zakończony.")
-    print("Najlepsze wagi:", "./runs/detect/plantdoc_yolo11_640/weights/best.pt")
+    print("Najlepsze wagi:", "./runs/detect/plantdoc_yolo11_optimized_dataset/weights/best.pt")
 
 if __name__ == "__main__":
     main()

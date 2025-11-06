@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from tqdm import tqdm
 import torch
 
-base = Path(r"C:\Users\Majkel\Desktop\STUDIA\praca\PlantDoc\runs\detect")
+base = Path(r"runs/detect")
 
 MODELS = {
     "YOLO11n": base / "plantdoc_yolo11n" / "weights"  / "best.pt",
@@ -17,7 +17,7 @@ MODELS = {
 }
 
 TEST_DIR = Path(r"C:\Users\Majkel\Desktop\STUDIA\praca\images\pomidory2_jpg")
-OUT_DIR  = Path(r"C:\Users\Majkel\Desktop\STUDIA\praca\PlantDoc\runs\compare_panels")
+OUT_DIR  = Path(r"runs/compare_panels")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 IMGSZ  = 640
@@ -66,7 +66,7 @@ def plot_and_stack(model_objs, model_names, src_path):
         pred_panels.append(vis)
 
 
-    panels = [orig_panel] + pred_panels
+    panels =  pred_panels
     panels = ensure_same_height(panels)
     row = cv2.hconcat(panels)
     return row

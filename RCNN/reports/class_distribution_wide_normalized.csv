@@ -1,0 +1,31 @@
+category_id,class_name,train_count,val_count,test_count,total_count
+6,Blueberry leaf,755,41,42,838
+26,Tomato leaf yellow virus,578,113,31,722
+11,Peach leaf,474,130,10,614
+15,Raspberry leaf,525,14,17,556
+19,Strawberry leaf,316,146,30,492
+22,Tomato leaf,285,87,27,399
+21,Tomato Septoria leaf spot,244,115,24,383
+9,Corn leaf blight,334,11,11,356
+4,Bell_pepper leaf,295,11,11,317
+13,Potato leaf early blight,286,0,16,302
+27,Tomato mold leaf,201,55,14,270
+16,Soyabean leaf,128,118,19,265
+18,Squash Powdery mildew leaf,235,9,8,252
+5,Bell_pepper leaf spot,235,0,14,249
+2,Apple leaf,176,61,10,247
+7,Cherry leaf,216,4,19,239
+23,Tomato leaf bacterial spot,212,12,13,237
+14,Potato leaf late blight,211,6,17,234
+29,grape leaf,202,3,15,220
+25,Tomato leaf mosaic virus,82,100,35,217
+24,Tomato leaf late blight,148,51,14,213
+20,Tomato Early blight leaf,143,29,18,190
+3,Apple rust leaf,144,8,10,162
+1,Apple Scab Leaf,121,6,10,137
+10,Corn rust leaf,94,16,11,121
+30,grape leaf black rot,104,8,8,120
+8,Corn Gray leaf spot,61,2,4,67
+17,Soybean leaf,15,0,0,15
+12,Potato leaf,11,0,0,11
+28,Tomato two spotted spider mites leaf,2,0,0,2

@@ -4,7 +4,7 @@ import torch
 from pathlib import Path
 import yaml
 
-DATA   = Path(r"C:\Users\Majkel\Desktop\STUDIA\praca\PlantDoc\PlantDoc-4\data.yaml")
+DATA   = Path(r"PlantDoc-4/data.yaml")
 IMGSZ  = 640
 BATCH  = 8
 EPOCHS = 70

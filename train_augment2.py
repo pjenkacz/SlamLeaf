@@ -3,8 +3,8 @@ from ultralytics import YOLO
 import torch
 from pathlib import Path
 
-DATA   = Path(r"C:\Users\Majkel\Desktop\STUDIA\praca\PlantDoc\PlantDoc-4\data.yaml")
-WEIGHTS_PHASE1 = Path(r"C:\Users\Majkel\Desktop\STUDIA\praca\PlantDoc\runs\detect\plantdoc_phase2_blur\weights\best.pt")
+DATA   = Path(r"PlantDoc-4/data.yaml")
+WEIGHTS_PHASE1 = Path(r"runs/detect/plantdoc_phase2_blur/weights/best.pt")
 IMGSZ  = 640
 BATCH  = 8
 EPOCHS = 20
@@ -27,7 +27,7 @@ def main():
         mosaic=0.0, mixup=0.0, copy_paste=0.0,
         seed=0,
     )
-    print(r"BEST: C:\Users\Majkel\Desktop\STUDIA\praca\PlantDoc\runs\detect\plantdoc_phase3_blur\weights\best.pt")
+    print(r"BEST: runs\detect\plantdoc_phase3_blur\weights\best.pt")
 
 if __name__ == "__main__":
     main()

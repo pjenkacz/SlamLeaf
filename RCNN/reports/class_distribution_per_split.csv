@@ -1,0 +1,121 @@
+category_id,class_name,split,bbox_count
+6,Blueberry leaf,train,755
+6,Blueberry leaf,val,41
+6,Blueberry leaf,test,42
+6,Blueberry leaf,total,838
+26,Tomato leaf yellow virus,train,578
+26,Tomato leaf yellow virus,val,113
+26,Tomato leaf yellow virus,test,31
+26,Tomato leaf yellow virus,total,722
+11,Peach leaf,train,474
+11,Peach leaf,val,130
+11,Peach leaf,test,10
+11,Peach leaf,total,614
+15,Raspberry leaf,train,525
+15,Raspberry leaf,val,14
+15,Raspberry leaf,test,17
+15,Raspberry leaf,total,556
+19,Strawberry leaf,train,316
+19,Strawberry leaf,val,146
+19,Strawberry leaf,test,30
+19,Strawberry leaf,total,492
+22,Tomato leaf,train,285
+22,Tomato leaf,val,87
+22,Tomato leaf,test,27
+22,Tomato leaf,total,399
+21,Tomato Septoria leaf spot,train,244
+21,Tomato Septoria leaf spot,val,115
+21,Tomato Septoria leaf spot,test,24
+21,Tomato Septoria leaf spot,total,383
+9,Corn leaf blight,train,334
+9,Corn leaf blight,val,11
+9,Corn leaf blight,test,11
+9,Corn leaf blight,total,356
+4,Bell_pepper leaf,train,295
+4,Bell_pepper leaf,val,11
+4,Bell_pepper leaf,test,11
+4,Bell_pepper leaf,total,317
+13,Potato leaf early blight,train,286
+13,Potato leaf early blight,val,0
+13,Potato leaf early blight,test,16
+13,Potato leaf early blight,total,302
+27,Tomato mold leaf,train,201
+27,Tomato mold leaf,val,55
+27,Tomato mold leaf,test,14
+27,Tomato mold leaf,total,270
+16,Soyabean leaf,train,128
+16,Soyabean leaf,val,118
+16,Soyabean leaf,test,19
+16,Soyabean leaf,total,265
+18,Squash Powdery mildew leaf,train,235
+18,Squash Powdery mildew leaf,val,9
+18,Squash Powdery mildew leaf,test,8
+18,Squash Powdery mildew leaf,total,252
+5,Bell_pepper leaf spot,train,235
+5,Bell_pepper leaf spot,val,0
+5,Bell_pepper leaf spot,test,14
+5,Bell_pepper leaf spot,total,249
+2,Apple leaf,train,176
+2,Apple leaf,val,61
+2,Apple leaf,test,10
+2,Apple leaf,total,247
+7,Cherry leaf,train,216
+7,Cherry leaf,val,4
+7,Cherry leaf,test,19
+7,Cherry leaf,total,239
+23,Tomato leaf bacterial spot,train,212
+23,Tomato leaf bacterial spot,val,12
+23,Tomato leaf bacterial spot,test,13
+23,Tomato leaf bacterial spot,total,237
+14,Potato leaf late blight,train,211
+14,Potato leaf late blight,val,6
+14,Potato leaf late blight,test,17
+14,Potato leaf late blight,total,234
+29,grape leaf,train,202
+29,grape leaf,val,3
+29,grape leaf,test,15
+29,grape leaf,total,220
+25,Tomato leaf mosaic virus,train,82
+25,Tomato leaf mosaic virus,val,100
+25,Tomato leaf mosaic virus,test,35
+25,Tomato leaf mosaic virus,total,217
+24,Tomato leaf late blight,train,148
+24,Tomato leaf late blight,val,51
+24,Tomato leaf late blight,test,14
+24,Tomato leaf late blight,total,213
+20,Tomato Early blight leaf,train,143
+20,Tomato Early blight leaf,val,29
+20,Tomato Early blight leaf,test,18
+20,Tomato Early blight leaf,total,190
+3,Apple rust leaf,train,144
+3,Apple rust leaf,val,8
+3,Apple rust leaf,test,10
+3,Apple rust leaf,total,162
+1,Apple Scab Leaf,train,121
+1,Apple Scab Leaf,val,6
+1,Apple Scab Leaf,test,10
+1,Apple Scab Leaf,total,137
+10,Corn rust leaf,train,94
+10,Corn rust leaf,val,16
+10,Corn rust leaf,test,11
+10,Corn rust leaf,total,121
+30,grape leaf black rot,train,104
+30,grape leaf black rot,val,8
+30,grape leaf black rot,test,8
+30,grape leaf black rot,total,120
+8,Corn Gray leaf spot,train,61
+8,Corn Gray leaf spot,val,2
+8,Corn Gray leaf spot,test,4
+8,Corn Gray leaf spot,total,67
+17,Soybean leaf,train,15
+17,Soybean leaf,val,0
+17,Soybean leaf,test,0
+17,Soybean leaf,total,15
+12,Potato leaf,train,11
+12,Potato leaf,val,0
+12,Potato leaf,test,0
+12,Potato leaf,total,11
+28,Tomato two spotted spider mites leaf,train,2
+28,Tomato two spotted spider mites leaf,val,0
+28,Tomato two spotted spider mites leaf,test,0
+28,Tomato two spotted spider mites leaf,total,2

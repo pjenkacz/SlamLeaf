@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from pathlib import Path
 
-base = Path(r"C:\Users\Majkel\Desktop\STUDIA\praca\PlantDoc\runs\detect")
+base = Path(r"runs/detect")
 
 models = {
     "YOLO11n": base / "plantdoc_yolo11n" / "results.csv",
